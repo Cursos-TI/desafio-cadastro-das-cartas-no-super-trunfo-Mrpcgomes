@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-    
+ 
 ///declaração de variáveis para a primeira carta 
    char codigo01[3];
    char estado01[4];
@@ -12,6 +12,8 @@ int main() {
    float area01;
    float pib01;
    int pontos_turisticos01;
+
+    printf ("Desafio das cartas super-trunfo \n\n") //Título do programa 
     
 //entrada de dados primeira carta 
     
